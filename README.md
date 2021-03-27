@@ -1,0 +1,1 @@
+# Resolución del examen de DataScience para OPI analytics## Gonzalo Lima CintaSe agregaron 3 jupyter notebooks donde ser resuelven las 3 secciones del examenPara ejecutarlo se deberá incluir las bases de la sección 1 y 2 en la carpeta databases
